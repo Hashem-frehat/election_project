@@ -26,3 +26,8 @@
 
 
 ## Live Demos
+
+- [Live Demo 1](#)
+- [Figma Demo](https://www.figma.com/design/p6iEerCRNpGr9E7PytThh2/Untitled?node-id=0-1&t=Aqk0FnVWz0lnrBjF-0)
+- [Trello Board](https://trello.com/b/jXokW7KQ/voting-system)
+- [github](https://github.com/group5-voting-system)
